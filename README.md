@@ -46,11 +46,11 @@ pip install pandas matplotlib python-dateutil
 
 1. Clone this repository:
 ```  
-git clone https://github.com/amanml2026/Sales-Analysis-Dashboard.git
+git clone https://github.com/amanml2026/sales-analysis-dashboard.git
 ```
 2.Navigate to the project folder:
 ```
-cd.Sales-Analysis-Dashboard
+cd.sales-analysis-dashboard
 ```
 3.Run the analysis script:
 ```
@@ -60,7 +60,7 @@ python main.py
 
 ## Folder Structure:
 
-Sales-Analysis-Dashboard/
+sales-analysis-dashboard/
 ├── main.py
 ├── sales.csv
 ├── plots/          # Optional: store generated plots here
@@ -72,5 +72,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Repository Link:
 
-https://github.com/amanml2026/Sales-Analysis-Dashboard
+https://github.com/amanml2026/sales-analysis-dashboard
 
